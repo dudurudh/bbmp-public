@@ -21,7 +21,7 @@ This quiz educates users about the current state of local governance in Bengalur
 - **Framework**: Next.js 14
 - **Styling**: Tailwind CSS
 - **Language**: TypeScript
-- **Deployment**: GitHub Pages
+- **Deployment**: GitHub Pages (gh-pages branch)
 
 ## Local Development
 
@@ -45,22 +45,35 @@ npm run dev
 
 ## Deployment
 
-This project is automatically deployed to GitHub Pages via GitHub Actions. The deployment process:
+This project uses a **gh-pages branch deployment strategy**:
 
-1. **Automatic**: Every push to the `main` branch triggers a deployment
-2. **Manual**: You can also trigger deployment manually from the Actions tab
+1. **Source Code**: Lives in the `main` branch
+2. **Static Site**: Built and deployed to the `gh-pages` branch
+3. **GitHub Pages**: Serves from the `gh-pages` branch
+
+### Deployment Process
+
+- **Automatic**: Every push to `main` triggers a GitHub Action
+- **Build**: Next.js static export creates optimized HTML/CSS/JS
+- **Deploy**: Static files are pushed to the `gh-pages` branch
+- **Serve**: GitHub Pages serves the site from `gh-pages` branch
 
 ### Deployment URL
 
 The site is deployed at: https://bbmp.publicengaged.in
 
-### Build Process
+### Manual Deployment
 
-The project uses Next.js static export for GitHub Pages compatibility:
+To deploy manually:
+```bash
+npm run build
+# The GitHub Action will handle the rest
+```
 
-- Static HTML generation
-- Optimized for GitHub Pages hosting
-- Automatic asset optimization
+## Branch Strategy
+
+- **`main`**: Source code and development
+- **`gh-pages`**: Generated static site (auto-created by GitHub Actions)
 
 ## Accessibility
 
