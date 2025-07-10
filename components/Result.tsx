@@ -8,7 +8,7 @@ interface ResultProps {
 }
 
 export default function Result({ onRestart, skipped }: ResultProps) {
-  const siteUrl = 'https://bbmp.publicengaged.in'
+  const siteUrl = 'https://dudurudh.github.io/bump-public'
   const mainRef = useRef<HTMLDivElement>(null)
   
   const shareText = "I just took this Bengaluru local democracy quiz — found out we have no corporators since 2020! Demand BBMP elections:"

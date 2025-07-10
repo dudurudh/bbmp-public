@@ -6,12 +6,12 @@ export const metadata: Metadata = {
   title: 'Bengaluru Democracy Quiz - No Corporators Since 2020',
   description: 'Take this quiz to see why Bengaluru has had no local corporators since 2020 and why local elections matter.',
   keywords: 'Bengaluru, BBMP, corporators, local elections, democracy, civic awareness',
-  metadataBase: new URL('https://bbmp.publicengaged.in'),
+  metadataBase: new URL('https://dudurudh.github.io'),
   openGraph: {
     title: 'Bengaluru Democracy Quiz - No Corporators Since 2020',
     description: 'Take this quiz to see why Bengaluru has had no local corporators since 2020 and why local elections matter.',
     type: 'website',
-    url: 'https://bbmp.publicengaged.in',
+    url: 'https://dudurudh.github.io/bump-public',
   },
   twitter: {
     card: 'summary',
