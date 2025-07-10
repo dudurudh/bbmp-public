@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Who decides how many potholes get fixed on your road?",
+    "options": ["Your Corporator", "Your MLA", "BBMP Commissioner", "God"],
+    "answer": "Actually right now? Mostly BBMP Commissioner… with a bit of God. No corporators since 2020 to push your road works."
+  },
+  {
+    "question": "Who is your corporator?",
+    "options": ["Rajesh", "Meena", "Actually, nobody", "Batman"],
+    "answer": "Trick question. Bengaluru hasn't had corporators since Sep 2020."
+  },
+  {
+    "question": "Who controls BBMP's ₹10,000 crore budget?",
+    "options": ["Elected Corporators", "BBMP Commissioner", "Your WhatsApp Group Admin", "Nobody knows"],
+    "answer": "BBMP Commissioner and bureaucrats. No elected representatives to question spending since 2020."
+  },
+  {
+    "question": "Who decides if your street gets garbage collection?",
+    "options": ["Your Corporator", "BBMP Officials", "The stray dogs", "Nobody"],
+    "answer": "BBMP officials decide everything now. No corporators to represent your area's needs."
+  },
+  {
+    "question": "Who can you call when your street light doesn't work?",
+    "options": ["Your Corporator", "BBMP Helpline", "Ghostbusters", "Nobody picks up"],
+    "answer": "BBMP helpline (if they pick up). No corporator to escalate your local issues."
+  },
+  {
+    "question": "Who decides park maintenance in your ward?",
+    "options": ["Your Corporator", "BBMP Horticulture", "The monkeys", "Nobody"],
+    "answer": "BBMP Horticulture department. No corporator to ensure your local parks are maintained."
+  },
+  {
+    "question": "Who represents your area in BBMP meetings?",
+    "options": ["Your Corporator", "BBMP Commissioner", "Nobody", "A ghost"],
+    "answer": "Nobody. BBMP meetings happen without any elected representatives since 2020."
+  },
+  {
+    "question": "Who decides water supply schedules for your area?",
+    "options": ["Your Corporator", "BWSSB Officials", "The rain gods", "Nobody knows"],
+    "answer": "BWSSB officials. No corporator to advocate for your area's water needs."
+  },
+  {
+    "question": "Who can you complain to about illegal construction?",
+    "options": ["Your Corporator", "BBMP Officials", "Your neighbor", "Nobody cares"],
+    "answer": "BBMP officials (if they act). No corporator to follow up on your complaints."
+  },
+  {
+    "question": "Who decides street cleaning schedules?",
+    "options": ["Your Corporator", "BBMP Sanitation", "The wind", "Nobody"],
+    "answer": "BBMP Sanitation department. No corporator to ensure your area gets proper cleaning."
+  },
+  {
+    "question": "Who can you approach for street name boards?",
+    "options": ["Your Corporator", "BBMP Officials", "Google Maps", "Nobody"],
+    "answer": "BBMP officials. No corporator to get your street properly identified."
+  },
+  {
+    "question": "Who decides traffic signal timing in your area?",
+    "options": ["Your Corporator", "Traffic Police", "The traffic itself", "Nobody"],
+    "answer": "Traffic police. No corporator to advocate for better traffic management in your area."
+  },
+  {
+    "question": "Who can you call for street dog issues?",
+    "options": ["Your Corporator", "BBMP Animal Control", "The dogs themselves", "Nobody"],
+    "answer": "BBMP Animal Control. No corporator to ensure proper animal welfare in your area."
+  },
+  {
+    "question": "Who decides if your area gets a new bus stop?",
+    "options": ["Your Corporator", "BMTC Officials", "The bus drivers", "Nobody"],
+    "answer": "BMTC officials. No corporator to push for better public transport in your area."
+  },
+  {
+    "question": "Who can you approach for street vendor issues?",
+    "options": ["Your Corporator", "BBMP Officials", "The vendors", "Nobody"],
+    "answer": "BBMP officials. No corporator to balance vendor rights with resident concerns."
+  },
+  {
+    "question": "Who decides if your street gets speed breakers?",
+    "options": ["Your Corporator", "BBMP Engineering", "The potholes", "Nobody"],
+    "answer": "BBMP Engineering department. No corporator to push for road safety measures."
+  },
+  {
+    "question": "Who can you complain to about street hawking?",
+    "options": ["Your Corporator", "BBMP Officials", "The hawkers", "Nobody"],
+    "answer": "BBMP officials. No corporator to mediate between residents and street vendors."
+  },
+  {
+    "question": "Who decides if your area gets a new library?",
+    "options": ["Your Corporator", "BBMP Officials", "Nobody", "The books decide"],
+    "answer": "BBMP officials. No corporator to advocate for educational facilities in your area."
+  },
+  {
+    "question": "Who can you approach for street tree maintenance?",
+    "options": ["Your Corporator", "BBMP Horticulture", "The trees", "Nobody"],
+    "answer": "BBMP Horticulture. No corporator to ensure proper tree care in your area."
+  },
+  {
+    "question": "Who decides if your street gets CCTV cameras?",
+    "options": ["Your Corporator", "BBMP Officials", "The cameras", "Nobody"],
+    "answer": "BBMP officials. No corporator to push for security measures in your area."
+  },
+  {
+    "question": "Who can you complain to about street parking issues?",
+    "options": ["Your Corporator", "Traffic Police", "The parked cars", "Nobody"],
+    "answer": "Traffic police. No corporator to advocate for better parking solutions in your area."
+  },
+  {
+    "question": "Who decides if your area gets a new playground?",
+    "options": ["Your Corporator", "BBMP Officials", "The children", "Nobody"],
+    "answer": "BBMP officials. No corporator to push for recreational facilities in your area."
+  },
+  {
+    "question": "Who can you approach for street light repair?",
+    "options": ["Your Corporator", "BESCOM Officials", "The lights", "Nobody"],
+    "answer": "BESCOM officials. No corporator to follow up on infrastructure repairs in your area."
+  },
+  {
+    "question": "Who decides if your street gets a new garbage bin?",
+    "options": ["Your Corporator", "BBMP Officials", "The garbage", "Nobody"],
+    "answer": "BBMP officials. No corporator to ensure proper waste management infrastructure."
+  },
+  {
+    "question": "Who represents your area's interests in BBMP budget discussions?",
+    "options": ["Your Corporator", "Nobody", "BBMP Commissioner", "The budget itself"],
+    "answer": "Nobody. BBMP budget discussions happen without any elected representatives since 2020."
+  }
+] 
