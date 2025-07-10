@@ -12,11 +12,24 @@ export const metadata: Metadata = {
     description: 'Take this quiz to see why Bengaluru has had no local corporators since 2020 and why local elections matter.',
     type: 'website',
     url: 'https://bbmp.publicengaged.in',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Bengaluru Democracy Quiz - Test your knowledge about local governance',
+      },
+    ],
   },
   twitter: {
-    card: 'summary',
+    card: 'summary_large_image',
     title: 'Bengaluru Democracy Quiz - No Corporators Since 2020',
     description: 'Take this quiz to see why Bengaluru has had no local corporators since 2020 and why local elections matter.',
+    images: ['/twitter-image.png'],
+  },
+  icons: {
+    icon: '/favicon.png',
+    apple: '/favicon.png',
   },
   other: {
     'viewport': 'width=device-width, initial-scale=1',

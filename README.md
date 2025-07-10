@@ -156,6 +156,24 @@ Edit `data/questions.json` to add new questions:
 - Modify share messages in `components/Result.tsx`
 - Change metadata in `app/layout.tsx`
 
+### Images and Assets
+
+The project includes placeholder images that should be replaced with actual assets:
+
+#### Required Images
+- **`public/og-image.png`** (1200x630px) - Open Graph image for social media sharing
+- **`public/twitter-image.png`** (1200x600px) - Twitter card image
+- **`public/favicon.png`** (32x32px or 16x16px) - Browser tab icon
+
+#### Image Guidelines
+- Use high-quality PNG images
+- Ensure good contrast for accessibility
+- Include relevant text or branding
+- Test how they appear in social media previews
+
+#### Current Placeholders
+The placeholder files contain instructions for replacement. Replace them with actual images before deployment.
+
 ## 🌐 Deployment
 
 ### GitHub Pages (Current)
