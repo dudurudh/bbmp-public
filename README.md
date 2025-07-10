@@ -185,6 +185,16 @@ This project uses a **gh-pages branch deployment strategy**:
 
 **Deployment URL**: https://bbmp.publicengaged.in
 
+**Custom Domain**: The `public/CNAME` file ensures the custom domain is preserved during deployments.
+
+#### Deployment Process
+
+- **Automatic**: Every push to `main` triggers a GitHub Action
+- **Build**: Next.js static export creates optimized HTML/CSS/JS
+- **CNAME Copy**: Custom domain file is copied to preserve domain settings
+- **Deploy**: Static files are pushed to the `gh-pages` branch
+- **Serve**: GitHub Pages serves the site from `gh-pages` branch
+
 ### Alternative Deployment Options
 
 #### Vercel (Recommended)
