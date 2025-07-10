@@ -2,126 +2,126 @@
   {
     "question": "Who ensures local BBMP officials fix potholes in your ward?",
     "options": ["Your Corporator", "Your MLA", "The BBMP Commissioner", "Nobody"],
-    "answer": "Your corporator. But Bengaluru hasn’t had corporators since 2020 to raise these issues."
+    "answer": "Normally your corporator — but Bengaluru hasn’t had corporators since 2020. So good luck dodging craters!"
   },
   {
     "question": "Who can question shady local tenders in your ward committee?",
     "options": ["Your Corporator", "The Mayor", "The BBMP Accounts team", "No one"],
-    "answer": "Your corporator. Without them, bureaucrats pass tenders unchecked."
+    "answer": "Your corporator! Except… we haven’t had any since 2020. Shady deals probably love this."
   },
   {
     "question": "Who is supposed to push for cleaning garbage black spots in your area?",
     "options": ["Your Corporator", "Random BBMP staff", "Your RWA President", "Nobody"],
-    "answer": "Your corporator. But there’s been no corporator since 2020 to do it."
+    "answer": "Your corporator. But Bengaluru’s been running on ‘DIY garbage oversight’ since 2020."
   },
   {
-    "question": "Who gets to approve small ward budgets for local works?",
+    "question": "Who approves small ward budgets for local works?",
     "options": ["Your Corporator", "The MLA", "Only engineers", "Nobody"],
-    "answer": "Your corporator. Right now ward budgets run without elected oversight."
+    "answer": "Corporators usually do. Right now it’s bureaucrats doing it solo — democracy’s still on vacation."
   },
   {
     "question": "Who normally fights for new public toilets or drains in your locality?",
     "options": ["Your Corporator", "The BBMP Commissioner", "Contractors", "Nobody"],
-    "answer": "Your corporator. But there’s no one elected to do it since 2020."
+    "answer": "That’s your corporator’s job. Sadly, no corporators = no toilet champions."
   },
   {
     "question": "Who speaks up in BBMP council meetings about issues in your street?",
     "options": ["Your Corporator", "BBMP Commissioner", "The local police", "No one"],
-    "answer": "Your corporator. But since 2020, Bengaluru has had no council meetings with elected reps."
+    "answer": "Your corporator. But there’s no council meeting *with elected reps* since 2020 — just crickets."
   },
   {
     "question": "Who approves local park maintenance contracts in your ward?",
     "options": ["Your Corporator", "BBMP Horticulture staff", "Gardeners directly", "Nobody"],
-    "answer": "Your corporator in ward committees. No corporators means no local accountability."
+    "answer": "Your corporator. Without them? Enjoy your new ‘wild jungles of Bengaluru’."
   },
   {
     "question": "Who ensures street sweepers actually clean your lanes regularly?",
     "options": ["Your Corporator", "Only BBMP Health Inspectors", "The monsoon", "Nobody"],
-    "answer": "Your corporator. Without one, local sanitation lapses often go unreported."
+    "answer": "Your corporator. But since 2020, it’s basically ‘wait for rain to clean streets’ strategy."
   },
   {
     "question": "Who can raise issues of illegal building violations inside your ward?",
     "options": ["Your Corporator", "Only BBMP Engineers", "Residents directly", "Nobody"],
-    "answer": "Your corporator. But there's no one elected now to follow up."
+    "answer": "Your corporator. Currently, unauthorized floors are probably growing faster than your local gossip."
   },
   {
     "question": "Who decides how small local repair funds get allocated in your ward?",
     "options": ["Your Corporator", "Only the BBMP HQ", "MLAs", "No one"],
-    "answer": "Your corporator. Right now, engineers & bureaucrats do this without elected inputs."
+    "answer": "Corporators did. Now it’s just official files shuffling around without your local voice."
   },
   {
     "question": "Who can escalate local issues like broken footpaths to BBMP standing committees?",
     "options": ["Your Corporator", "Your RWA", "The local tailor", "Nobody"],
-    "answer": "Your corporator. Since 2020, there are no corporators to do this."
+    "answer": "Your corporator. No corporators since 2020, so that tailor might be your best bet!"
   },
   {
     "question": "Who makes sure funds for ward-level flood prevention projects are used properly?",
     "options": ["Your Corporator", "MLA", "BBMP Assistant Engineers", "No one"],
-    "answer": "Your corporator. Without them, these works often lack checks."
+    "answer": "Your corporator should. Right now it’s more ‘cross your fingers and hope your street doesn’t become Venice’."
   },
   {
     "question": "Who represents your ward’s interests during BBMP annual budget debates?",
     "options": ["Your Corporator", "Only the Mayor", "State Ministers", "Nobody"],
-    "answer": "Your corporator. Bengaluru hasn’t had corporators since 2020, so budgets pass without them."
+    "answer": "Corporators. Bengaluru hasn’t had them since 2020, so your area’s voice is just an echo."
   },
   {
     "question": "Who can call BBMP engineers to explain shoddy road work in your ward?",
     "options": ["Your Corporator", "A random citizen", "Traffic police", "No one"],
-    "answer": "Your corporator. No corporators means no local checks."
+    "answer": "Your corporator. Right now it’s ‘yell on Twitter and hope for retweets’."
   },
   {
     "question": "Who helps prioritize local works like fixing street corners or culverts?",
     "options": ["Your Corporator", "Only contractors", "The traffic", "Nobody"],
-    "answer": "Your corporator. Right now, local prioritization happens without elected input."
+    "answer": "Your corporator. Now it’s basically contractors deciding what’s convenient for them."
   },
   {
     "question": "Who can formally raise complaints if BBMP contractors abandon a project?",
     "options": ["Your Corporator", "Residents directly to HQ", "A journalist", "Nobody"],
-    "answer": "Your corporator. But there are none since 2020 to follow up."
+    "answer": "Your corporator. But without them? Your half-dug road might become permanent art."
   },
   {
     "question": "Who is supposed to ensure street vendors follow BBMP guidelines in your ward?",
     "options": ["Your Corporator", "Only market inspectors", "The vendors themselves", "Nobody"],
-    "answer": "Your corporator. No corporator means less organized enforcement."
+    "answer": "Your corporator. Now it’s more ‘street self-regulation’ — good luck!"
   },
   {
     "question": "Who can push BBMP to install dustbins on busy streets in your area?",
     "options": ["Your Corporator", "Health officers alone", "The garbage collectors", "Nobody"],
-    "answer": "Your corporator. But there’s no corporator to push since 2020."
+    "answer": "Your corporator. Since 2020, it’s ‘each street for itself’."
   },
   {
     "question": "Who ensures ward-level playgrounds are funded & maintained?",
     "options": ["Your Corporator", "Only BBMP sports staff", "The kids themselves", "Nobody"],
-    "answer": "Your corporator. Bengaluru’s wards have no corporators since 2020 to ensure this."
+    "answer": "Your corporator. No corporators means your local park might just stay a barren patch."
   },
   {
     "question": "Who can question BBMP officials if drains are clogged every monsoon?",
     "options": ["Your Corporator", "Rain gods", "MLA alone", "Nobody"],
-    "answer": "Your corporator. But no corporators since 2020 means these problems often repeat."
+    "answer": "Your corporator. Currently, it’s mostly ‘pray hard during rainy season’."
   },
   {
     "question": "Who usually brings up local safety issues like dark streets in council?",
     "options": ["Your Corporator", "Traffic cops", "Residents by themselves", "Nobody"],
-    "answer": "Your corporator. Without them, your street’s problems may never reach city debates."
+    "answer": "Your corporator. No corporators = your dark street stays perfect for ghost stories."
   },
   {
     "question": "Who pushes for new benches or walking tracks in your local park?",
     "options": ["Your Corporator", "Park gardeners", "The dogs", "Nobody"],
-    "answer": "Your corporator. No corporator since 2020 to advocate for such improvements."
+    "answer": "Your corporator. But no corporators = the dogs might have to hold a meeting instead."
   },
   {
     "question": "Who can intervene if a BBMP contractor delays completing a local footpath?",
     "options": ["Your Corporator", "Only the Commissioner", "Your local chaiwala", "Nobody"],
-    "answer": "Your corporator. But with no corporators since 2020, delays often continue unchecked."
+    "answer": "Your corporator. But right now? Your chaiwala might actually be more reliable."
   },
   {
     "question": "Who represents your ward’s needs in deciding local BBMP taxes & fees?",
     "options": ["Your Corporator", "State MLAs", "The BBMP Accounts dept", "Nobody"],
-    "answer": "Your corporator. Since 2020, no one elected is doing this for your area."
+    "answer": "Your corporator. With none since 2020, your ward’s opinion is basically on mute."
   },
   {
     "question": "Who signs off on local improvement proposals before sending to BBMP HQ?",
     "options": ["Your Corporator", "The local electrician", "Only engineers", "Nobody"],
-    "answer": "Your corporator. Without corporators, local proposals skip your elected filter."
+    "answer": "Your corporator. Now it’s just files moving around without your local voice."
   }
 ]
