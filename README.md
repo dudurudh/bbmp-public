@@ -27,8 +27,8 @@ This quiz educates users about the current state of local governance in Bengalur
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dudurudh/bump-public.git
-cd bump-public
+git clone https://github.com/dudurudh/bbmp-public.git
+cd bbmp-public
 ```
 
 2. Install dependencies:
@@ -52,7 +52,7 @@ This project is automatically deployed to GitHub Pages via GitHub Actions. The d
 
 ### Deployment URL
 
-The site is deployed at: https://dudurudh.github.io/bump-public
+The site is deployed at: https://bbmp.publicengaged.in
 
 ### Build Process
 

@@ -5,8 +5,7 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/bump-public' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/bump-public/' : '',
+  // Remove basePath and assetPrefix for custom domain
 }
 
 module.exports = nextConfig 
